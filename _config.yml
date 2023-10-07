@@ -1,3 +1,10 @@
 theme: minima
 title: CSC461 Project Page
 description: The project page for Brody Gimson's CSC461 project.
+author:
+  name: Brody Gimson
+
+minima:
+  skin: auto
+  social_links:
+    - { platform: github, user_url: "https://github.com/BrodyGimson" }
