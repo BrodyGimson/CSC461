@@ -1,12 +1,7 @@
 theme: minima
-author:
-  name: Brody Gimson
-  email: brodygimson@uvic.ca
-
+author: Brody Gimson
+email: brodygimson@uvic.ca
 title: CSC461 Project Page
 description: The project page for Brody Gimson's CSC461 project.
 
-minima:
-  skin: auto
-  social_links:
-    - { platform: github, user_url: "https://github.com/BrodyGimson" }
+github_username: BrodyGimson
