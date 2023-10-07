@@ -7,3 +7,4 @@ description: The site for my CSC461 project.
 github_username: BrodyGimson
 
 header_pages:
+  - about.md

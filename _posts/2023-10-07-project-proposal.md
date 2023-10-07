@@ -1,4 +1,4 @@
 ---
 layout: post
 ---
-Initial project proposal post.
+Here is the link to my Project Proposal.
