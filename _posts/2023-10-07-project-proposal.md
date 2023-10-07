@@ -1,5 +1,5 @@
 ---
 layout: post
-category: deliverable
+category: deliverables
 ---
 Here is the link to my Project Proposal.
