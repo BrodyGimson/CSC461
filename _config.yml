@@ -1,8 +1,10 @@
 theme: minima
-title: CSC461 Project Page
-description: The project page for Brody Gimson's CSC461 project.
 author:
   name: Brody Gimson
+  email: brodygimson@uvic.ca
+
+title: CSC461 Project Page
+description: The project page for Brody Gimson's CSC461 project.
 
 minima:
   skin: auto
