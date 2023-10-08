@@ -2,4 +2,4 @@
 layout: post
 category: deliverables
 ---
-Here is the link to my Project Proposal.
+You can find my project proposal [here](/files/Project%20Proposal.pdf).
