@@ -54,40 +54,40 @@ One of the other things I want to do is to move my current research onto the web
 ### Cited References
 <div style="text-indent: -36px; padding-left: 36px;">
     <p>
-        [1]&nbsp;&nbsp;&nbsp;&nbsp; E. Kuzyakov and D. Pio. "Next-generation video encoding techniques for 360 video and VR" Engineering at Meta. https://engineering.fb.com/2016/01/21/virtual-reality/next-generation-video-encoding-techniques-for-360-video-and-vr/ (accessed: Nov. 6, 2023).
+        [1]&nbsp;&nbsp;&nbsp;&nbsp;E. Kuzyakov and D. Pio. "Next-generation video encoding techniques for 360 video and VR" Engineering at Meta. https://engineering.fb.com/2016/01/21/virtual-reality/next-generation-video-encoding-techniques-for-360-video-and-vr/ (accessed: Nov. 6, 2023).
     </p>
     <p>
-        [2]&nbsp;&nbsp;&nbsp;&nbsp; C. Brown. "Bringing pixels front and center in VR video." Google - The Keyword. https://blog.google/products/google-ar-vr/bringing-pixels-front-and-center-vr-video/ (accessed: Nov. 6, 2023).
+        [2]&nbsp;&nbsp;&nbsp;&nbsp;C. Brown. "Bringing pixels front and center in VR video." Google - The Keyword. https://blog.google/products/google-ar-vr/bringing-pixels-front-and-center-vr-video/ (accessed: Nov. 6, 2023).
     </p>
     <p>
-        [3]&nbsp;&nbsp;&nbsp;&nbsp; *Spatial Media*. (2018), Google. Accessed: Nov. 6, 2023. [Source Code]. Available: https://github.com/google/spatial-media/tree/v2.1
+        [3]&nbsp;&nbsp;&nbsp;&nbsp;<em>Spatial Media</em>. (2018), Google. Accessed: Nov. 6, 2023. [Source Code]. Available: https://github.com/google/spatial-media/tree/v2.1
     </p>
     <p>
-        [4]&nbsp;&nbsp;&nbsp;&nbsp; Google. "Upload 180- or 360-degree videos." Youtube Help. https://support.google.com/youtube/answer/6178631 (accessed: Nov. 6, 2023).
+        [4]&nbsp;&nbsp;&nbsp;&nbsp;Google. "Upload 180- or 360-degree videos." Youtube Help. https://support.google.com/youtube/answer/6178631 (accessed: Nov. 6, 2023).
     </p>
     <p>
-        [5]&nbsp;&nbsp;&nbsp;&nbsp; *A-large-dataset-of-360-video-user-behaviour*. (2021), 360VidStr. Accessed: Nov. 6, 2023. [Source Code]. Available: https://github.com/360VidStr/A-large-dataset-of-360-video-user-behaviour/tree/main
+        [5]&nbsp;&nbsp;&nbsp;&nbsp;<em>A-large-dataset-of-360-video-user-behaviour</em>. (2021), 360VidStr. Accessed: Nov. 6, 2023. [Source Code]. Available: https://github.com/360VidStr/A-large-dataset-of-360-video-user-behaviour/tree/main
     </p>
     <p>
-        [6]&nbsp;&nbsp;&nbsp;&nbsp; *360tools*. (2016), Samsung. Accessed: Nov. 6, 2023. [Source Code]. Available: https://github.com/Samsung/360tools
+        [6]&nbsp;&nbsp;&nbsp;&nbsp;<em>360tools</em>. (2016), Samsung. Accessed: Nov. 6, 2023. [Source Code]. Available: https://github.com/Samsung/360tools
     </p>
     <p>
-        [7]&nbsp;&nbsp;&nbsp;&nbsp; VideoLAN. "360° Video playback with VLC." VLS User Documentation. https://docs.videolan.me/vlc-user/3.0/en/advanced/player/360_video.html (accessed: Nov. 6, 2023).
+        [7]&nbsp;&nbsp;&nbsp;&nbsp;VideoLAN. "360° Video playback with VLC." VLS User Documentation. https://docs.videolan.me/vlc-user/3.0/en/advanced/player/360_video.html (accessed: Nov. 6, 2023).
     </p>
     <p>
-        [8]&nbsp;&nbsp;&nbsp;&nbsp; VideoLan. "VLC media player nightly builds." VideoLAN Organization. https://nightlies.videolan.org/ (accessed: Nov. 6, 2023).
+        [8]&nbsp;&nbsp;&nbsp;&nbsp;VideoLan. "VLC media player nightly builds." VideoLAN Organization. https://nightlies.videolan.org/ (accessed: Nov. 6, 2023).
     </p>
 </div>
 
 ### General References
 <div style="text-indent: -36px; padding-left: 36px;">
     <p>
-        [1]&nbsp;&nbsp;&nbsp;&nbsp; A. Yaqoob, T. Bi, and G. -M. Muntean, "A Survey on Adaptive 360° Video Streaming: Solutions, Challenges and Opportunities," *IEEE Communications Surveys & Tutorials*, vol. 22, no. 4, pp. 2801-2838, Jul. 2020, doi: 10.1109/COMST.2020.3006999.
+        [1]&nbsp;&nbsp;&nbsp;&nbsp;A. Yaqoob, T. Bi, and G. -M. Muntean, "A Survey on Adaptive 360° Video Streaming: Solutions, Challenges and Opportunities," <em>IEEE Communications Surveys & Tutorials</em>, vol. 22, no. 4, pp. 2801-2838, Jul. 2020, doi: 10.1109/COMST.2020.3006999.
     </p>
     <p>
-        [2]&nbsp;&nbsp;&nbsp;&nbsp; M. M. Hannuksela, Y. -K. Wang and A. Hourunranta, "An Overview of the OMAF Standard for 360° Video," *2019 Data Compression Conference (DCC)*, Snowbird, UT, USA, 2019, pp. 418-427, doi: 10.1109/DCC.2019.00050.
+        [2]&nbsp;&nbsp;&nbsp;&nbsp;M. M. Hannuksela, Y. -K. Wang and A. Hourunranta, "An Overview of the OMAF Standard for 360° Video," <em>2019 Data Compression Conference (DCC)</em>, Snowbird, UT, USA, 2019, pp. 418-427, doi: 10.1109/DCC.2019.00050.
     </p>
     <p>
-        [3]&nbsp;&nbsp;&nbsp;&nbsp; M. M. Hannuksela and Y. -K. Wang, "An Overview of Omnidirectional MediA Format (OMAF)," *Proceedings of the IEEE*, vol. 109, no. 9, pp. 1590-1606, Sept. 2021, doi: 10.1109/JPROC.2021.3063544.
+        [3]&nbsp;&nbsp;&nbsp;&nbsp;M. M. Hannuksela and Y. -K. Wang, "An Overview of Omnidirectional MediA Format (OMAF)," <em>Proceedings of the IEEE</em>, vol. 109, no. 9, pp. 1590-1606, Sept. 2021, doi: 10.1109/JPROC.2021.3063544.
     </p>
 </div>
