@@ -18,7 +18,7 @@ The report I plan on breaking down into the following areas:
         - Comparing complexity and pricing for each of the formats mentioned in the "Formats" section
 - How these videos are viewed
     - This section will cover some spherical projection types
-        - E.g. Equirectanguler, Cubemap, Meta's Pyramid, Google's Equi-Angular Cubemap
+        - E.g. Equirectangular, Cubemap, Meta's Pyramid, Google's Equi-Angular Cubemap
     - This will likely be the area with the most info and where my demo focuses
         - See "Technical Challenges" for more details on the demo
 - Metadata needed for uploading to YouTube
@@ -38,14 +38,14 @@ I explain my plans for the demo in the "Technical Challenges" section.
 Initially I was hoping to create my own spherical video as part of my demo, but it proved too challenging to get my hands on a camera that was capable of capturing one. This required me to rethink what I would demo, but the solution I came up with I believe will be more interesting to examine in the end.
 
 ### Challenges Solved
-The solution I came up with was based off a suggestion from one of the TAs, which was to use a sample video from a sample dataset [5]. What I plan to do is use a conversion tool created by Samsung to convert it to different projection formats and qualtatively compare them (i.e. look at info redundancy and quality in the different formats) [6].
+The solution I came up with was based off a suggestion from one of the TAs, which was to use a sample video from a sample dataset [5]. What I plan to do is use a conversion tool created by Samsung to convert it to different projection formats and qualitatively compare them (i.e. look at info redundancy and quality in the different formats) [6].
 
 ### Challenges Remaining
 The last challenges will be to work with this Samsung tool to have a few videos of different formats and find a way to view the videos in the spherical and regular video modes to compare them. So far the multimedia program VLC seems to do well at viewing the equirectangular projection type, but not others [7]. Their beta version 4 may offer the ability to view other types, however it may be unstable or not work at all [8]. Viewing the videos in a flat format may be enough to compare them though and collect the data I need (i.e. screenshots to show in the demo and report). 
 
 
 ## What's Next
-Next up will be to start making the report draft from the outline I have made and to tackle the last remaining technical challenges. Along with those I will need to create a presentaiton for the video demo and figure out what the best option will be to showcase the video on this site (i.e. an embeded unlisted YouTube video or if I can host it here).
+Next up will be to start making the report draft from the outline I have made and to tackle the last remaining technical challenges. Along with those I will need to create a presentation for the video demo and figure out what the best option will be to showcase the video on this site (i.e. embed unlisted YouTube video or if I can host it here).
 
 One of the other things I want to do is to move my current research onto the website. I would create pages/articles that would cover the different aspects listed in my report that give a brief overview of each part (including some pictures and videos) which would be expanded upon in the actual report. My original impression was that the websites were just an area to post updates and the deliverables, so perhaps this could be clarified if these articles are expected or not.
 
@@ -54,7 +54,7 @@ One of the other things I want to do is to move my current research onto the web
 ### Cited References
 <div style="text-indent: -36px; padding-left: 36px;">
     <p>
-        [1]&nbsp;&nbsp;&nbsp;&nbsp;E. Kuzyakov and D. Pio. "Next-generation video encoding techniques for 360 video and VR" Engineering at Meta. https://engineering.fb.com/2016/01/21/virtual-reality/next-generation-video-encoding-techniques-for-360-video-and-vr/ (accessed: Nov. 6, 2023).
+        [1]&nbsp;&nbsp;&nbsp;&nbsp;E. Kuzyakov and D. Pio. "Next-generation video encoding techniques for 360 video and VR." Engineering at Meta. https://engineering.fb.com/2016/01/21/virtual-reality/next-generation-video-encoding-techniques-for-360-video-and-vr/ (accessed: Nov. 6, 2023).
     </p>
     <p>
         [2]&nbsp;&nbsp;&nbsp;&nbsp;C. Brown. "Bringing pixels front and center in VR video." Google - The Keyword. https://blog.google/products/google-ar-vr/bringing-pixels-front-and-center-vr-video/ (accessed: Nov. 6, 2023).
