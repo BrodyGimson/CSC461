@@ -29,7 +29,7 @@ For a few examples of these videos, take a look at YouTube’s “Virtual Realit
         [3]&nbsp;&nbsp;&nbsp;&nbsp;Vimeo Staff. “Vimeo 360: A home for immersive storytelling.” Vimeo.com. https://vimeo.com/blog/post/introducing-vimeo-360/ (accessed Nov. 13, 2023).
     </p>
     <p>
-        [4]&nbsp;&nbsp;&nbsp;&nbsp;E. Kuzyakov and D. Pio. "Next-generation video encoding techniques for 360 video and VR" Engineering at Meta. https://engineering.fb.com/2016/01/21/virtual-reality/next-generation-video-encoding-techniques-for-360-video-and-vr/ (accessed: Nov. 6, 2023).
+        [4]&nbsp;&nbsp;&nbsp;&nbsp;E. Kuzyakov and D. Pio. "Next-generation video encoding techniques for 360 video and VR." Engineering at Meta. https://engineering.fb.com/2016/01/21/virtual-reality/next-generation-video-encoding-techniques-for-360-video-and-vr/ (accessed: Nov. 6, 2023).
     </p>
     <p>
         [5]&nbsp;&nbsp;&nbsp;&nbsp;C. Brown. "Bringing pixels front and center in VR video." Google - The Keyword. https://blog.google/products/google-ar-vr/bringing-pixels-front-and-center-vr-video/ (accessed: Nov. 6, 2023).
