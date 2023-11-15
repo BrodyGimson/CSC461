@@ -36,4 +36,4 @@ Pyramid projection is not supported by OMAF at the moment and is considered a vi
     </p>
 </div>
 
-### Next Article - [Metadata Required for YouTube](/articles/metadata)
+### Next Article - [Metadata Required for YouTube](/CSC461/articles/metadata)
