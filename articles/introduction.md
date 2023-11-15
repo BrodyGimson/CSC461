@@ -3,7 +3,7 @@ layout: page
 title: "Spherical Videos - Introduction"
 ---
 
-Spherical videos, also called omnidirectional or 360° videos, are quickly gaining popularity as an entertainment medium. These videos give users the ability to view around them rather than the traditional format of seeing exactly what is in front of them with standard videos. Platforms such as YouTube, Vimeo, and Facebook [1-3] already support these video types, and some of them are actively looking at ways to improve it [4-5]. These videos can be viewed in a regular browser using a mouse to click and drag to look around, on a phone by physically moving it, or on head-mounted displays (HMDs) such as a VR headset. 
+Spherical videos, also called omnidirectional or 360° videos, are quickly gaining popularity as an entertainment medium. These videos give users the ability to view around them rather than the traditional format of only seeing exactly what is in front of them. Platforms such as YouTube, Vimeo, and Facebook [1-3] already support these video types, and some of them are actively looking at ways to improve it [4-5]. These videos can be viewed in a regular browser using a mouse to click and drag to look around, on a phone by physically moving it, or on head-mounted displays (HMDs) such as a VR headset. 
 
 In these articles I hope to provide an overview of the following: 
 - The different formats of these videos and the OMAF standard 
@@ -42,3 +42,5 @@ For a few examples of these videos, take a look at YouTube’s “Virtual Realit
         [1]&nbsp;&nbsp;&nbsp;&nbsp;A. Yaqoob, T. Bi, and G. -M. Muntean, "A Survey on Adaptive 360° Video Streaming: Solutions, Challenges and Opportunities," <em>IEEE Communications Surveys & Tutorials</em>, vol. 22, no. 4, pp. 2801-2838, Jul. 2020, doi: 10.1109/COMST.2020.3006999.
     </p>
 </div>
+
+### Next Article - [Main Formats and the OMAF Standard](/articles/formats.md)
