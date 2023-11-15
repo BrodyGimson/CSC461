@@ -43,4 +43,4 @@ For a few examples of these videos, take a look at YouTube’s “Virtual Realit
     </p>
 </div>
 
-### Next Article - [Main Formats and the OMAF Standard](/articles/formats.md)
+### Next Article - [Main Formats and the OMAF Standard](/articles/formats)
