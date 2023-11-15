@@ -8,4 +8,5 @@ github_username: BrodyGimson
 
 header_pages:
   - about.md
+  - articles/index.md
   - deliverables.html
