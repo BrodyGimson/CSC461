@@ -39,4 +39,4 @@ Created by the Motion Picture Experts Group (MPEG) as part of the MPEG-I standar
     </p>
 </div>
 
-### Next Article - [Syncing and Stiching](/articles/syncing_and_stitching.md)
+### Next Article - [Syncing and Stiching](/articles/syncing_and_stitching)
