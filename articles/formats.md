@@ -25,7 +25,7 @@ Created by the Motion Picture Experts Group (MPEG) as part of the MPEG-I standar
         [1]&nbsp;&nbsp;&nbsp;&nbsp;GoPro. “GoPro MAX 360 Action Camera.” GoPro.com. https://gopro.com/en/ca/shop/cameras/max/CHDHZ-202-master.html (accessed Nov. 15, 2023).
     </p>
     <p>
-        [2]&nbsp;&nbsp;&nbsp;&nbsp;Insta360. “Insta360 Pro 2 - 360 VR Camera.” Insta360.com (accessed Nov. 15, 2023).
+        [2]&nbsp;&nbsp;&nbsp;&nbsp;Insta360. “Insta360 Pro 2 - 360 VR Camera.” Insta360.com. https://www.insta360.com/product/insta360-pro2 (accessed Nov. 15, 2023).
     </p>
     <p>
         [3]&nbsp;&nbsp;&nbsp;&nbsp;M. M. Hannuksela and Y. -K. Wang, "An Overview of Omnidirectional MediA Format (OMAF)," <em>Proceedings of the IEEE</em>, vol. 109, no. 9, pp. 1590-1606, Sept. 2021, doi: 10.1109/JPROC.2021.3063544.
