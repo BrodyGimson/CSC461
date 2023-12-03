@@ -19,14 +19,14 @@ Spherical videos can be thought of as 3DoF (degrees of freedom) where the user h
         [2]&nbsp;&nbsp;&nbsp;&nbsp;Insta360. “Insta360 EVO - Relive what you love.” Insta360.com. https://www.insta360.com/product/insta360-evo (accessed Dec. 3, 2023).
     </p>
     <p>
-        [3]&nbsp;&nbsp;&nbsp;&nbsp;A. , T. Bi, and G. -M. Muntean, "A Survey on Adaptive 360° Video Streaming: Solutions, Challenges and Opportunities," <em>ACM Transactions on Graphics</em>, vol. 38, no. 6, pp. 1-16, Nov. 2019, doi: 10.1145/3355089.3356555.
+        [3]&nbsp;&nbsp;&nbsp;&nbsp;A. P. Pozo <em>et al.</em>, "An Integrated 6DoF Video Camera and System Design," <em>ACM Transactions on Graphics</em>, vol. 38, no. 6, pp. 1-16, Nov. 2019, doi: 10.1145/3355089.3356555.
     </p>
 </div>
 
 ### General References
 <div style="text-indent: -36px; padding-left: 36px;">
     <p>
-        [1]&nbsp;&nbsp;&nbsp;&nbsp;A. P. Pozo <em>et al.</em>, "An Integrated 6DoF Video Camera and System Design," <em>IEEE Communications Surveys & Tutorials</em>, vol. 22, no. 4, pp. 2801-2838, Jul. 2020, doi: 10.1109/COMST.2020.3006999.
+        [1]&nbsp;&nbsp;&nbsp;&nbsp;A. Yaqoob, T. Bi, and G. -M. Muntean, "A Survey on Adaptive 360° Video Streaming: Solutions, Challenges and Opportunities," <em>IEEE Communications Surveys & Tutorials</em>, vol. 22, no. 4, pp. 2801-2838, Jul. 2020, doi: 10.1109/COMST.2020.3006999.
     </p>
     <p>
         [2]&nbsp;&nbsp;&nbsp;&nbsp;M. M. Hannuksela and Y. -K. Wang, "An Overview of Omnidirectional MediA Format (OMAF)," <em>Proceedings of the IEEE</em>, vol. 109, no. 9, pp. 1590-1606, Sept. 2021, doi: 10.1109/JPROC.2021.3063544.
