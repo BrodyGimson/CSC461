@@ -75,7 +75,7 @@ One of the other things I want to do is to move my current research onto the web
         [7]&nbsp;&nbsp;&nbsp;&nbsp;VideoLAN. "360° Video playback with VLC." VLS User Documentation. https://docs.videolan.me/vlc-user/3.0/en/advanced/player/360_video.html (accessed: Nov. 6, 2023).
     </p>
     <p>
-        [8]&nbsp;&nbsp;&nbsp;&nbsp;VideoLan. "VLC media player nightly builds." VideoLAN Organization. https://nightlies.videolan.org/ (accessed: Nov. 6, 2023).
+        [8]&nbsp;&nbsp;&nbsp;&nbsp;VideoLAN. "VLC media player nightly builds." VideoLAN Organization. https://nightlies.videolan.org/ (accessed: Nov. 6, 2023).
     </p>
 </div>
 
