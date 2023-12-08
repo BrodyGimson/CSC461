@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Spherical Video - Syncing and Stiching"
+title: "Spherical Video - Syncing and Stitching"
 ---
 
 The process of syncing and stitching is required to bring the multiple videos captured by the different camera lenses into one continuous spherical video. These multiple videos need to be synced in time and stitched together in order to create a seamless sphere. Stitching tends to be the area where most problems arise, where artifacts and seams can be seen if stitching is done poorly. It also should be noted that the more video channels we have in the video (ie.e stereoscopic vs monoscopic) and the more cameras we have the more syncing and stitching is required. A particular problem that arises with stereoscopic videos is making sure that the offset between the two channels is retained throughout the different views in the video, otherwise it can be very disorienting to the user. This can be tricky to view as one requires a headset to really see it properly.
