@@ -9,7 +9,7 @@ Below is the list of articles written to give an overview of spherical videos.
 
 ### 2. [Main Formats and the OMAF Standard](/CSC461/articles/formats)
 
-### 3. [Syncing and Stiching](/CSC461/articles/syncing_and_stitching)
+### 3. [Syncing and Stitching](/CSC461/articles/syncing_and_stitching)
 
 ### 4. [Viewing](/CSC461/articles/viewing)
 
