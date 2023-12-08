@@ -13,7 +13,7 @@ Here is a tutorial using Adobe After Effects which does a great job of showing h
 ### Cited References
 <div style="text-indent: -36px; padding-left: 36px;">
     <p>
-        [1]&nbsp;&nbsp;&nbsp;&nbsp; Adobe. "Edit 360/VR Video." Creativecloud.Adobe.com. https://creativecloud.adobe.com/en-CA/learn/premiere-pro/web/edit-360-vr-video (accessed Dec. 8, 20-23).
+        [1]&nbsp;&nbsp;&nbsp;&nbsp;Adobe. "Edit 360/VR Video." Creativecloud.Adobe.com. https://creativecloud.adobe.com/en-CA/learn/premiere-pro/web/edit-360-vr-video (accessed Dec. 8, 20-23).
     </p>
     <p>
         [2]&nbsp;&nbsp;&nbsp;&nbsp;Insta360. “Insta360 Pro 2 - 360 VR Camera.” Insta360.com. https://www.insta360.com/product/insta360-pro2 (accessed Nov. 15, 2023).
