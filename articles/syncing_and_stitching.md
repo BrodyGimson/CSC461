@@ -28,6 +28,9 @@ Here is a tutorial using Adobe After Effects which does a great job of showing h
     <p>
         [1]&nbsp;&nbsp;&nbsp;&nbsp;A. Yaqoob, T. Bi, and G. -M. Muntean, "A Survey on Adaptive 360° Video Streaming: Solutions, Challenges and Opportunities," <em>IEEE Communications Surveys & Tutorials</em>, vol. 22, no. 4, pp. 2801-2838, Jul. 2020, doi: 10.1109/COMST.2020.3006999.
     </p>
+    <p>
+        [2]&nbsp;&nbsp;&nbsp;&nbsp;Meta. “Stitching 360 and 180 Video.” Creator.Oculus.com. https://creator.oculus.com/getting-started/getting-started-stitching/ (accessed Dec. 10, 2023).
+    </p>
 </div>
 
 ### Next Article - [Viewing](/CSC461/articles/viewing)

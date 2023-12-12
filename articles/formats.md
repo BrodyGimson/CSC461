@@ -37,6 +37,9 @@ Created by the Motion Picture Experts Group (MPEG) as part of the MPEG-I standar
     <p>
         [1]&nbsp;&nbsp;&nbsp;&nbsp;A. Yaqoob, T. Bi, and G. -M. Muntean, "A Survey on Adaptive 360° Video Streaming: Solutions, Challenges and Opportunities," <em>IEEE Communications Surveys & Tutorials</em>, vol. 22, no. 4, pp. 2801-2838, Jul. 2020, doi: 10.1109/COMST.2020.3006999.
     </p>
+    <p>
+        [2]&nbsp;&nbsp;&nbsp;&nbsp;M. Rowell. “VR Video Formats Explained.” 360Labs.net. https://360labs.net/blog/vr-video-formats-explained (accessed Dec. 10, 2023).
+    </p>
 </div>
 
 ### Next Article - [Syncing and Stitching](/CSC461/articles/syncing_and_stitching)
